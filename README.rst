@@ -21,7 +21,7 @@ Setup cron jobs
 ================
 
 A cron job is required to renew the CRL of CA certificates. *panda_pilot_install.sh* will
-generate the cron command under *<dest_dir>/tools/fetch-crl.cron*.
+generate the cron command under *<dest_dir>/tools/fetch-crl.cron*. Please install it too.
 
 
 How to update

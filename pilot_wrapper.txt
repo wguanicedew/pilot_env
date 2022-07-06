@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/PanDAWMS/pilot-wrapper/master/runpilot2-wrapper.sh
+https://raw.githubusercontent.com/PanDAWMS/pilot-wrapper/rubin/rubin-wrapper.sh
